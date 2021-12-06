@@ -1,6 +1,6 @@
 You can view the app here: https://3x3.netlify.app/
 
-
+The App is Responsive
 
 # Getting Started with Create React App
 
